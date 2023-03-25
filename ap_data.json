@@ -1,0 +1,222 @@
+[
+    {
+        "id": 9,
+        "bssid": "C0:56:27:BC:91:E4",
+        "essid": "ISAN_AP",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 09:58:23",
+        "updated_at": "2023-03-16 09:58:23",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 10,
+        "bssid": "74:3E:2B:3D:8C:28",
+        "essid": ".@ AIS SUPER WiFi",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 09:59:48",
+        "updated_at": "2023-03-16 09:59:48",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 11,
+        "bssid": "74:3E:2B:FD:8C:28",
+        "essid": "eduroam",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:00:49",
+        "updated_at": "2023-03-16 10:00:49",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 12,
+        "bssid": "74:3E:2B:BD:8C:28",
+        "essid": "@MSU-Net via AIS ",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:04:59",
+        "updated_at": "2023-03-16 10:04:59",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 13,
+        "bssid": "74:3E:2B:7D:8C:28",
+        "essid": "@MSU-Net Plus ",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:06:33",
+        "updated_at": "2023-03-16 10:06:33",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 14,
+        "bssid": "74:3E:2B:3D:8C:29",
+        "essid": "AIS SMART Login",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:07:17",
+        "updated_at": "2023-03-16 10:07:17",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 15,
+        "bssid": "74:3E:2B:3D:E3:E9",
+        "essid": "AIS SMART Login",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:08:03",
+        "updated_at": "2023-03-16 10:08:03",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 16,
+        "bssid": "74:3E:2B:7D:E3:E8",
+        "essid": "@MSU-Net Plus",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:09:07",
+        "updated_at": "2023-03-16 10:09:07",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 17,
+        "bssid": "74:3E:2B:3D:E3:E8",
+        "essid": ".@ AIS SUPER WiFi",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:10:38",
+        "updated_at": "2023-03-16 10:10:38",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 18,
+        "bssid": "74:3E:2B:FD:E3:E8",
+        "essid": "eduroam",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:11:14",
+        "updated_at": "2023-03-16 10:11:14",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 19,
+        "bssid": "74:3E:2B:BD:E3:E8",
+        "essid": "@MSU-Net via AIS",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:11:56",
+        "updated_at": "2023-03-16 10:11:56",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 20,
+        "bssid": "A8:63:7D:FD:DF:47",
+        "essid": "@DLink-WiFi-2.4G",
+        "channel": 11,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:13:28",
+        "updated_at": "2023-03-16 10:13:28",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 21,
+        "bssid": "9C:8C:D8:01:E5:60",
+        "essid": "IT_WIfi",
+        "channel": 1,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:14:22",
+        "updated_at": "2023-03-16 10:14:22",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 22,
+        "bssid": "74:3E:2B:3D:E3:79",
+        "essid": "AIS SMART Login",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:17:17",
+        "updated_at": "2023-03-16 10:17:17",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 23,
+        "bssid": "74:3E:2B:3D:E3:78",
+        "essid": ".@ AIS SUPER WiFi",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:21:17",
+        "updated_at": "2023-03-16 10:21:17",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 24,
+        "bssid": "74:3E:2B:7D:E3:78",
+        "essid": "@MSU-Net Plus ",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:23:44",
+        "updated_at": "2023-03-16 10:23:44",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 25,
+        "bssid": "74:3E:2B:BD:E3:78",
+        "essid": "@MSU-Net via AIS",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "OPN",
+        "created_at": "2023-03-16 10:24:28",
+        "updated_at": "2023-03-16 10:24:28",
+        "description": "ตึก IT ชั้น 1"
+    },
+    {
+        "id": 26,
+        "bssid": "74:3E:2B:FD:E3:78",
+        "essid": "eduroam",
+        "channel": 6,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:25:33",
+        "updated_at": "2023-03-16 10:25:33",
+        "description": "ISAN LAB"
+    },
+    {
+        "id": 27,
+        "bssid": "2C:08:8C:58:71:B4",
+        "essid": "Maneewan",
+        "channel": 20,
+        "frequency": 2.4,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:25:33",
+        "updated_at": "2023-03-16 10:25:33",
+        "description": "HOME"
+    },
+      {
+        "id": 27,
+        "bssid": "2C:08:8C:58:71:AC",
+        "essid": "Maneewan 5GHz",
+        "channel": 40,
+        "frequency": 5,
+        "capabilities": "WPA2",
+        "created_at": "2023-03-16 10:25:33",
+        "updated_at": "2023-03-16 10:25:33",
+        "description": "HOME"
+    }
+]
