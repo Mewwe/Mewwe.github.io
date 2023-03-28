@@ -221,7 +221,7 @@
     },
     {
         "id": 21,
-        "bssid": "C0:11:27:BC:91:E4",
+        "bssid": "00:24:01:A2:1C:A2",
         "essid": "TEST_AP",
         "channel": 6,
         "frequency": 2.4,
